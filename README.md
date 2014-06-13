@@ -101,7 +101,7 @@ Feel free to speak to us about resources, GitHub, licences and so on - we'll try
 
 ## Feedback
 
-Please let us know how you use GitHub
+Please let us know how you use GitHub in Education, how you use our resources or how you feel we could improve our methods.
 
 ## Links
 
