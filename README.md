@@ -59,6 +59,8 @@ At the Raspberry Pi Foundation, we want to maximise the potential reach and appl
 
 The licence we use is [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) (attribution and share-alike), which is the licence used by Wikipedia.
 
+[![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 Read more about [our use of Creative Commons](http://www.raspberrypi.org/creative-commons/).
 
 ### Choosing a licence
