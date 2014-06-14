@@ -54,9 +54,9 @@ Use code blocks! Use syntax highlighting where possible! Both GitHub and the Ras
 
 It's recommended you use inline code blocks for language keywords, code snippets and some technical things like package names, e.g. "Install the package `python-picamera` to access the camera directly from Python."
 
-### Block quotes
-
 ### Tables
+
+Where necessary, tables can be used. It is recommended tables are not too long, and the neat layout is preferred to aid readability.
 
 ### Horizontal rule
 
