@@ -38,7 +38,7 @@ See our [Style Guide](style-guide.md) to learn about our preferred methods of fo
 
 There is a format to the repository of a Raspberry Pi resource. Some resources are larger projects than others and require more structure and organisation to the contents.
 
-See our [Resource Structure Guide] to learn how to organise the files and folders in your repository.
+See our [Resource Structure Guide](structure-guide.md) to learn how to organise the files and folders in your repository.
 
 ## Licence
 
