@@ -1,8 +1,8 @@
 # Creating Resources
 
-A short guide for educators and trainers intending to create learning material on GitHub for their own use and/or towards being included on the [Raspberry Pi website](http://www.rasperrypi.org/resources/).
+A short guide for educators and trainers intending to create learning material on GitHub for their own use, and/or with a view to being included on the [Raspberry Pi website](http://www.rasperrypi.org/resources/).
 
-Before creating or submitting a resource, it is important to know what you're aiming to achieve, who the resource is for, how the information is presented, to what extent you would like to share the materials and whether you would mind others adapting it to suit their own purpose.
+Before creating or submitting a resource, it is important to know what you're aiming to achieve, who the resource is for, how the information is presented, to what extent you would like to share the materials, and whether you would mind others adapting it to suit their own purpose.
 
 ## Teach, Learn or Make
 
@@ -10,11 +10,11 @@ It is important to know what type of resource you're creating. On the Raspberry 
 
 ### Teach
 
-*Teach* resources are schemes of work matching the curriculum, with details such as programme of study, learning objectives and learning outcomes.
+*Teach* resources are schemes of work matching the English Computing curriculum, with features such as a programme of study, lesson plans, learning objectives, and learning outcomes.
 
 ### Learn
 
-*Learn* resources are materials which work well as a one-off lesson, workshop or individual exercise.
+*Learn* resources are materials which work well as a one-off lesson, workshop, or as an individual exercise.
 
 ### Make
 
@@ -22,13 +22,13 @@ It is important to know what type of resource you're creating. On the Raspberry 
 
 ## GitHub
 
-GitHub is a software projects hosting service – it's a kind of social networking site for code projects. It uses version control software Git to manage changes in projects, and allows collaboration over the web.
+GitHub is a software projects hosting service; it's a kind of social networking site for code projects. It uses version-control software Git to manage changes in projects, and allows collaboration over the web.
 
 Read more about [our use of GitHub](http://www.raspberrypi.org/github/).
 
 ## Markdown
 
-Markdown is a plain text formatting syntax. It's very simple, and it maintains its readability while offering a range of formatting options. Our documentation and educational resources are written in markdown and we encourage others to use it for any resources they write themselves and submit to us.
+Markdown is a plain-text formatting syntax. It's very simple, and it maintains its readability while offering a range of formatting options. Our documentation and educational resources are written in Markdown, and we encourage others to use it for any resources they write themselves and submit to us.
 
 See the [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on GitHub for reference.
 
@@ -37,17 +37,17 @@ See the [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Mark
 A typical **Learn** or **Make** resource repository may take the following format:
 
 - README.md
-    - The index page introducing the material, the purpose of the exercise and providing details of any installation, setup instructions and equipment required
+    - An index page introducing the material and the purpose of the exercise, and providing details of any installation, setup instructions and equipment required
 - worksheet.md
-    - The worksheet containing the instructions for the exercise broken down in to appropriate steps
+    - A worksheet containing the instructions for the exercise broken down into appropriate steps
 - LICENCE.md
     - Details of the licence of the materials
 - CONTRIBUTING.md
     - Information for contributors to the materials
 
-The repository may also include a folder for code files, scripts and other downloadable assets, and may contain an images folder for any images embedded in the information pages or worksheets. Multiple worksheets can be used, and would be linked to from the index page.
+The repository may also include a folder for code files, scripts and other downloadable assets, and may contain an images folder for any images embedded in the information pages or worksheets. Multiple worksheets can be used, and should be linked to from the index page.
 
-A typical **Teach** resource repository may contain an overall index page along with several folders containing similar contents to the **Learn** and **Make** resources, with more detail and presented in a greater structure.
+A typical **Teach** resource repository may contain an overall index page along with several folders containing similar contents to the **Learn** and **Make** resources, with more detail and presented within a greater structure.
 
 ## Licence
 
@@ -65,33 +65,33 @@ Read more about [our use of Creative Commons](http://www.raspberrypi.org/creativ
 
 ### Choosing a licence
 
-You are free to select whatever licence you feel comfortable, and you are entitled to use the methods described in this document without sharing your work. If you would like to share your resources with other educators, we would recommend you follow our lead and use CC BY-SA.
+You are free to select whatever licence you feel comfortable, and you are entitled to use the methods described in this document without sharing your work. If you would like to share your resources with other educators, we would recommend you follow our lead and use the CC BY-SA licence as above.
 
-Submissions of resources appreciated, provided they are available under a Creative Commons license such as CC BY-SA. Please contact us for more information.
+Submissions of resources are appreciated, provided they are available under a Creative Commons license such as CC BY-SA. Please [contact us](http://www.raspberrypi.org/contact-us/) for more information.
 
 #### Software licences
 
 Creative Commons covers use of creative works such as written material, music or photography. Software projects use a different set of licences which state the use and distribution of software. Such licences are suitable for software libraries or products/services, but small examples of code used in the context of a learning resource can be covered by the Creative Commons licence relating to the creative works.
 
-In most cases, software licences would be uneccesary in learning resources, but if you created a general purpose software library to go with your resource, you should look at choosing an appropriate licence for the library.
+In most cases, software licences would be unnecessary in learning resources, but if you created a general-purpose software library to go with your resource, you should look at choosing an appropriate licence for the library.
 
-For example, Sonic Pi has the [MIT Licence](https://github.com/samaaron/sonic-pi/blob/master/LICENSE.md) and the `python-picamera` module has the [BSD Licence](https://github.com/waveform80/picamera/blob/master/LICENSE.txt).
+For example, Sonic Pi uses the [MIT Licence](https://github.com/samaaron/sonic-pi/blob/master/LICENSE.md) and the `python-picamera` module uses the [BSD Licence](https://github.com/waveform80/picamera/blob/master/LICENSE.txt).
 
-Refer to [choosealicense.com](http://choosealicense.com/) for more information, or feel free to contact us.
+Refer to [choosealicense.com](http://choosealicense.com/) for more information, or feel free to [contact us](http://www.raspberrypi.org/contact-us/).
 
 ## Submission
 
 If you intend to write a Raspberry Pi learning resource to share with the community, we recommend you follow our guidelines and submit to us to review and potentially include on the website.
 
-Once you have your resource ready to submit, email the URL of the GitHub repository to contributions@raspberrypi.org.
+Once you have your resource ready to submit, email the URL of the GitHub repository to [contributions@raspberrypi.org](mailto:contributions@raspberrypi.org).
 
-Alternatively, if you have resources prepared in another format we can use (Word document or text file – not PDF), you can send these to the same email address. Note such submissions will take longer to process.
+Alternatively, if you have resources prepared in another format we can use (Word document or text file – not PDF), you can send these to the same email address. Note that such submissions will take longer to process.
 
 We retain the right not to use contributions.
 
 ### Process
 
-If we decide you to include your resource on our website, will will fork the project in to the [raspberrypilearning](https://github.com/raspberrypilearning) GitHub organisation. We may make amendments to this copy, and yours will be left as it was, with the option of merging our changes in to your original copy.
+If we decide you to include your resource on our website, we will fork the project in to the [raspberrypilearning](https://github.com/raspberrypilearning) GitHub organisation. We may make amendments to this copy, and yours will be left as it was, with the option of merging our changes in to your original copy.
 
 At the time of writing there is currently no named attribution on our Resources page, but the name of the author is given on the project's front page. We intend to better highlight author and contributor names on the website in near future.
 
@@ -103,7 +103,7 @@ Feel free to speak to us about resources, GitHub, licences and so on - we'll try
 
 ## Feedback
 
-Please let us know how you use GitHub in Education, how you use our resources or how you feel we could improve our methods.
+Please let us know how you use GitHub in Education, how you use our resources, or how you feel we could improve our methods.
 
 ## Links
 
