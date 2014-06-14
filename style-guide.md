@@ -6,6 +6,8 @@ The page title should be given as a top level heading, and this should be the on
 
 Second level headings should reflect the sections of the document, and third level headings should be used for subheadings under these sections. Use further headings hierarchically if needed.
 
+Ensure a space is given after the hashes, i.e. `# Title` rather than `#Title`.
+
 ### Emphasis
 
 Strong emphasis (bold) should not be used as headings. Use headings. Only use bold or italics to emphasise a word or some words in a sentence, as appropriate.
@@ -63,6 +65,8 @@ Where necessary, tables can be used. It is recommended tables are not too long, 
 Horizontal rules should be used sparingly.
 
 ### Line breaks
+
+Use newlines around text to render as paragraphs, unless the contrary is required. It's generally recommended to use newlines to separate all parts of content in markdown form as this aids readability. Unless newlines hinder the desired effect, please use them at all times.
 
 ### Anchors
 
