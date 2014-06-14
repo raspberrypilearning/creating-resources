@@ -306,18 +306,6 @@ You can format text as a block quote by prepending each line with a `>` like so:
 
 This is useful for quoting text from a web page or book, or from documentation.
 
-Use blank lines with `>` to continue a single quote. To purposely break up two quotes, leave a line gap like so:
-
-```
->The Raspberry Pi is a credit-card-sized single-board computer developed in the UK by the Raspberry Pi Foundation with the intention of promoting the teaching of basic computer science in schools.
-
->The Raspberry Picademy is a free professional development experience for primary and secondary teachers, initially for those here in the UK.
-```
-
->The Raspberry Pi is a credit-card-sized single-board computer developed in the UK by the Raspberry Pi Foundation with the intention of promoting the teaching of basic computer science in schools.
-
->The Raspberry Picademy is a free professional development experience for primary and secondary teachers, initially for those here in the UK.
-
 It is good practice to cite the quote, simply with a link back to the origin if it is online, or another suitable reference:
 
 ```
