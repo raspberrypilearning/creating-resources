@@ -233,6 +233,8 @@ You can make an image a link by wrapping it in square brackets as per the normal
 
 ### Code blocks
 
+Code Blocks are used to show snippets of code in the context of some text.
+
 ### Block quotes
 
 ### Tables
