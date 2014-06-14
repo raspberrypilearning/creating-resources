@@ -60,6 +60,8 @@ Where necessary, tables can be used. It is recommended tables are not too long, 
 
 ### Horizontal rule
 
+Horizontal rules should be used sparingly.
+
 ### Line breaks
 
 ### Anchors
