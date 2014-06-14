@@ -356,4 +356,12 @@ Note the use of markdown inside tables.
 
 ### Horizontal rule
 
+Horizontal rules can be used by inserting a line with three or more hyphens like so:
+
+```
+---
+```
+
+---
+
 ### Line breaks
