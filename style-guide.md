@@ -66,6 +66,12 @@ Note that GitHub does not currently support uploading of images, so you would ha
 
 ### Code blocks
 
+Use code blocks! Use syntax highlighting where possible! Both GitHub and the Raspberry Pi website supports many languages. Be sure to use the correct language alias - common ones are `python`, `ruby`, `php`, `bash` and `javascript`.
+
+#### Inline code blocks
+
+It's recommended you use inline code blocks for language keywords, code snippets and some technical things like package names, e.g. "Install the package `python-picamera` to access the camera directly from Python."
+
 ### Block quotes
 
 ### Tables
