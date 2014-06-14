@@ -320,6 +320,40 @@ It is good practice to cite the quote, simply with a link back to the origin if 
 
 ### Tables
 
+It is possible to tabulate data in markdown with the use of pipes to denote columns:
+
+```
+| Workshop   | Language  | Leader      |
+| ---------- |:---------:| -----------:|
+| Sonic Pi   | Ruby      | Carrie Anne |
+| Picamera   | Python    | Ben         |
+| Minecraft  | Python    | Craig       |
+```
+
+| Workshop   | Language  | Leader      |
+| ---------- |:---------:| -----------:|
+| Sonic Pi   | Ruby      | Carrie Anne |
+| Picamera   | Python    | Ben         |
+| Minecraft  | Python    | Craig       |
+
+Note the use of colons to align columns.
+
+Use of pipes at the edges, and alignment of columns is not necessary for the output but aids readability in the markdown:
+    
+```
+A | B | C
+:-: | :-: | :-:
+*italic* | `code` | **bold**
+1 | 2 | 3
+```
+
+A | B | C
+:-: | :-: | :-:
+*italic* | `code` | **bold**
+1 | 2 | 3
+
+Note the use of markdown inside tables.
+
 ### Horizontal rule
 
 ### Line breaks
