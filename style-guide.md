@@ -26,25 +26,7 @@ Use four spaces to indent a sub-list.
 
 #### Paragraphs in between list items
 
-If you need to include further text in between list items, indent the text with four spaces. This will allow your list to continue (i.e. numbering in an ordered list will not break sequence). For example:
-
-```
-1. Plug in your mouse and keyboard
-
-    These go in the USB ports along the short side of the Raspberry Pi opposite the SD card slot
-
-1. Connect your HDMI cable
-
-    This goes in the HDMI port on the long side of the Raspberry Pi
-```
-
->1. Plug in your mouse and keyboard
->
->    These go in the USB ports along the short side of the Raspberry Pi opposite the SD card slot
->
->1. Connect your HDMI cable
->
->    This goes in the HDMI port on the long side of the Raspberry Pi
+If you need to include further text in between list items, indent the text with four spaces. This will allow your list to continue (i.e. numbering in an ordered list will not break sequence). Ensure list numbering is not unintentionally broken.
 
 ### Links
 
