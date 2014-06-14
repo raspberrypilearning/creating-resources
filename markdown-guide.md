@@ -389,3 +389,28 @@ between each line
 If you want a paragraph, use new lines either side of your text.
 
 If something doesn't quite look right in the preview window, try adding new lines around it, or removing them to achieve the desired formatting.
+
+<a name="anchors"></a>
+### Anchors
+
+If you require anchors to point at a particular section of a page, use an empty HTML `<a>` element with a `name` attribute as reference, usually above a heading:
+
+```
+<a name="raspberrypi"></a>
+## Raspberry Pi
+```
+
+This will allow you to refer to that section of the page by appending `#raspberrypi` to the URL.
+
+You can create a link to an anchor on the same page by referencing the hash link:
+
+```
+[Raspberry Pi](#raspberrypi)
+```
+
+or on another page with the relative or full URL:
+
+```
+[Raspberry Pi](../#raspberrypi)
+[Anchors](https://github.com/raspberrypilearning/creating-resources/markdown-guide.md#anchors)
+```
