@@ -385,3 +385,7 @@ This is another sentence followed by a blank line
 This is three lines
 without a gap
 between each line
+
+If you want a paragraph, use new lines either side of your text.
+
+If something doesn't quite look right in the preview window, try adding new lines around it, or removing them to achieve the desired formatting.
