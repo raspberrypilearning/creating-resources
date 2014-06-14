@@ -365,3 +365,23 @@ Horizontal rules can be used by inserting a line with three or more hyphens like
 ---
 
 ### Line breaks
+
+Paragraphs are formed by the presence of blank lines around text, and many other formatting styles in markdown are affected by line breaks.
+
+```
+This is a single sentence followed by a blank line
+
+This is another sentence followed by a blank line
+
+This is three lines
+without a gap
+between each line
+```
+
+This is a single sentence followed by a blank line
+
+This is another sentence followed by a blank line
+
+This is three lines
+without a gap
+between each line
