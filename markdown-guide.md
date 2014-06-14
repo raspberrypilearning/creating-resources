@@ -233,7 +233,43 @@ You can make an image a link by wrapping it in square brackets as per the normal
 
 ### Code blocks
 
-Code Blocks are used to show snippets of code in the context of some text.
+Code blocks are used to show snippets of code in the context of some surrounding text.
+
+Code blocks are denoted by three back-ticks on separate lines either side, like so:
+
+<pre lang="no-highlight"><code>```
+for i in range(10):
+    print(i)
+```</code></pre>
+
+```
+for i in range(10):
+    print(i)
+```
+
+Optionally you can provide the language of the code used in the block, for syntax highlighting:
+
+<pre lang="no-highlight"><code>```python
+for i in range(10):
+    print(i)
+```</code></pre>
+
+```python
+for i in range(10):
+    print(i)
+```
+
+#### Inline code blocks
+
+You can refer to code or technical keywords inline (i.e. in a sentence) with single back-ticks:
+
+```
+Install the package `python-picamera` to access the camera directly from Python.
+```
+
+>Install the package `python-picamera` to access the camera directly from Python.
+
+No syntax highlighting is available for inline code blocks.
 
 ### Block quotes
 
