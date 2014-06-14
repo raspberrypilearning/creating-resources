@@ -70,6 +70,10 @@ Use newlines around text to render as paragraphs, unless the contrary is require
 
 ### Anchors
 
+If you require anchors to point at a particular section of a page, use an empty HTML `<a>` element with a `name` attribute.
+
+Note that GitHub applies anchors to headings automatically but for them to be used on the Raspberry Pi site will need to be explicitly added.
+
 ## Alternatives
 
 There are alternative methods to achieving the required formatting to the methods shown in this document. Purposely these have been left out here as we would prefer those writing materials for our use follow the same format to make collaboration and editing easier for all.
