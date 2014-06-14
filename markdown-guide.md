@@ -414,3 +414,7 @@ or on another page with the relative or full URL:
 [Raspberry Pi](../#raspberrypi)
 [Anchors](https://github.com/raspberrypilearning/creating-resources/markdown-guide.md#anchors)
 ```
+
+---
+
+*Based on [adam-p](https://github.com/adam-p)'s [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
