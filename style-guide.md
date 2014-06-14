@@ -34,6 +34,8 @@ If you need to include further text in between list items, indent the text with 
 
 Use links as described above. Check relative links are correct and be sure to update them if you change file or folder names or move files to a new location.
 
+Try to use sensible link text accurately describing the link, e.g. `Check out [Raspberry Pi on GitHub](https://github.com/raspberrypi)` is better than `[Click here] to see Raspberry Pi on GitHub`.
+
 #### Relative links with a leading slash
 
 You may be familiar with the use of a leading `/` to link relatively from the root, i.e. the path `/worksheet.md` would always point at the `worksheet.md` file at the root of the repository, rather than use a series of `../` to go back the correct number of levels.
