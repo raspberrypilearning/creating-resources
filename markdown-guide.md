@@ -67,23 +67,23 @@ Headings are denoted by the hash symbol. There are six level headings, which are
 
 Emphasis (italics) uses `*asterisks*`:
 
->*asterisks*
+*asterisks*
 
 Strong emphasis (bold) uses `**double asterisks**`:
 
->**double asterisks**
+**double asterisks**
 
 Use both together (bold italic) with `***triple asterisks***` or combined `***bold italic* and just bold**`
 
->***triple asterisks***
+***triple asterisks***
 
 or
 
->***bold italic* and just bold**
+***bold italic* and just bold**
 
 Strikethrough uses two tildes `~~like so~~`:
 
->~~like so~~
+~~like so~~
 
 ### Lists
 
@@ -100,10 +100,10 @@ Unordered lists simply use a hyphen at the start of each line like so:
 
 which renders like so:
 
->- Python
->- Scratch
->- Sonic Pi
->- Minecraft
+- Python
+- Scratch
+- Sonic Pi
+- Minecraft
 
 #### Ordered lists (numbered)
 
@@ -118,10 +118,10 @@ Ordered lists simply use a number and a dot at the start of each line like so:
 
 which renders like so:
 
->1. Python
->2. Scratch
->3. Sonic Pi
->4. Minecraft
+1. Python
+2. Scratch
+3. Sonic Pi
+4. Minecraft
 
 You can also just repeat `1.` at the beginning of each line, and the numbers will be automatically generated as you add more. This is especially useful for adding items in the middle of a list as it saves you renumbering the items:
 
@@ -132,10 +132,10 @@ You can also just repeat `1.` at the beginning of each line, and the numbers wil
 1. Minecraft
 ```
 
->1. Python
->1. Scratch
->1. Sonic Pi
->1. Minecraft
+1. Python
+1. Scratch
+1. Sonic Pi
+1. Minecraft
 
 ### Nested lists
 
@@ -150,12 +150,12 @@ You can nest items in ordered or unordered lists (even combine the two) by inden
     1. FFMPEG
 ```
 
->- Hardware
->    1. Raspberry Pi
->    1. Camera module
->- Software
->    1. Python Picamera
->    1. FFMPEG
+- Hardware
+    1. Raspberry Pi
+    1. Camera module
+- Software
+    1. Python Picamera
+    1. FFMPEG
 
 Sub-lists continue with further indentation.
 
@@ -167,7 +167,7 @@ Links are created by giving the link text in square brackets immediately followe
 Check out the [Raspberry Pi](http://www.raspberrypi.org/) website
 ```
 
->Check out the [Raspberry Pi](http://www.raspberrypi.org/) website
+Check out the [Raspberry Pi](http://www.raspberrypi.org/) website
 
 You can also link to other pages in the same repository:
 
@@ -175,7 +175,7 @@ You can also link to other pages in the same repository:
 See the [worksheet](worksheet.md) for this project
 ```
 
->See the [worksheet](worksheet.md) for this project
+See the [worksheet](worksheet.md) for this project
 
 This would link to the `worksheet.md` file in the same folder as the current document. To go in to another folder:
 
@@ -183,7 +183,7 @@ This would link to the `worksheet.md` file in the same folder as the current doc
 See the [Lesson 1 worksheet](lesson-1/worksheet.md)
 ```
 
->See the [Lesson 1 worksheet](lesson-1/worksheet.md)
+See the [Lesson 1 worksheet](lesson-1/worksheet.md)
 
 This would link to the `worksheet.md` file in the `lesson-1` folder, provided the folder is at the same level as the current document.
 
@@ -193,7 +193,7 @@ To go back up a level, use relative links:
 See the [project requirements](../requirements.md)
 ```
 
->See the [project requirements](../requirements.md)
+See the [project requirements](../requirements.md)
 
 `../` denotes going back up one level. To go back up two levels:
 
@@ -209,7 +209,7 @@ To include an image in a markdown document, use the link syntax with a leading e
 ![](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
 ```
 
-> ![](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
+![](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
 
 You can also include images inside the repository (a good idea as they're then self-contained) so you refer to them relatively:
 
@@ -267,7 +267,7 @@ You can refer to code or technical keywords inline (i.e. in a sentence) with sin
 Install the package `python-picamera` to access the camera directly from Python.
 ```
 
->Install the package `python-picamera` to access the camera directly from Python.
+Install the package `python-picamera` to access the camera directly from Python.
 
 No syntax highlighting is available for inline code blocks.
 
