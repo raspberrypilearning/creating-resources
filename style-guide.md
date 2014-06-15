@@ -1,4 +1,4 @@
-## Style Guide
+## Raspberry Pi Learning Style Guide
 
 ### Headings
 
@@ -56,7 +56,7 @@ Use code blocks! Use syntax highlighting where possible! Both GitHub and the Ras
 
 #### Inline code blocks
 
-It's recommended you use inline code blocks for language keywords, code snippets and some technical things like package names, e.g. "Install the package `python-picamera` to access the camera directly from Python."
+It's recommended you use inline code blocks for language keywords, code snippets and some technical things like package names, e.g. "Install the package `python-picamera` to access the camera directly from Python" and "Press `Ctrl + S` to save". 
 
 ### Tables
 
