@@ -24,7 +24,7 @@ It is important to know what type of resource you're creating. On the Raspberry 
 
 GitHub is a software projects hosting service; it's a kind of social networking site for code projects. It uses version-control software Git to manage changes in projects, and allows collaboration over the web.
 
-See our [GitHub Guide](github-guide.md) to learn how to use GitHub to write and contribute to resources. 
+See our [GitHub Guide](github/README.md) to learn how to use GitHub to write and contribute to resources.
 
 ## Markdown
 
