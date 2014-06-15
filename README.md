@@ -86,3 +86,4 @@ Please let us know how you use GitHub in Education, how you use our resources, o
 ### GitHub
 
 - [GitHub for Education](https://education.github.com)
+- [GitHub Help Pages](https://help.github.com/)
