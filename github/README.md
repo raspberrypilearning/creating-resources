@@ -2,7 +2,7 @@
 
 At Raspberry Pi we use GitHub for a number of projects, from our software repositories like the Linux kernel and NOOBS to our documentation and educational resources.
 
-We have two GitHub organisations: [Raspberry Pi](https://github.com/raspberrypi) and [Raspberry Pi Learning](https://github.com/raspberrypilearning).
+We have three GitHub organisations: [Raspberry Pi](https://github.com/raspberrypi) for software and documentation; [Raspberry Pi Learning](https://github.com/raspberrypilearning) for educational resources; and [Picademy](https://github.com/picademy) for materials related to our teacher training / CPD programme.
 
 ## Using GitHub
 
