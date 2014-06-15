@@ -67,6 +67,7 @@ At the time of writing there is currently no named attribution on our Resources 
 Feel free to speak to us about resources, GitHub, licences and so on - we'll try to help with any queries.
 
 - [Ben Nuttall](https://github.com/bennuttall)
+- [Carrie Anne Philbin](https://github.com/missphilbin)
 
 ## Feedback
 
