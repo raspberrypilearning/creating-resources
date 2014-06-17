@@ -14,7 +14,7 @@ Read more about [our use of Creative Commons](http://www.raspberrypi.org/creativ
 
 ## Choosing a licence
 
-You are free to select whatever licence you feel comfortable, and you are entitled to use the methods described in this document without sharing your work. If you would like to share your resources with other educators, we would recommend you follow our lead and use the CC BY-SA licence as above.
+You are free to select whatever licence you feel comfortable with, and you are entitled to use the methods described in this document without sharing your work. If you would like to share your resources with other educators, we would recommend you follow our lead and use the CC BY-SA licence as above.
 
 Submissions of resources are appreciated, provided they are available under a Creative Commons license such as CC BY-SA. Please [contact us](http://www.raspberrypi.org/contact-us/) for more information.
 
