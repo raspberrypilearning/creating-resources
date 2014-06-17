@@ -4,11 +4,11 @@ Markdown Style Guide for Raspberry Pi Learning Resources
 
 ## What is Markdown?
 
-Markdown is a plain text formatting syntax. It's very simple, and it maintains its readability while offering a range of formatting options.
+Markdown is a plain-text formatting syntax. It's very simple, and it maintains its readability while offering a range of formatting options.
 
-See the Markdown cheat sheet on GitHub for reference.
+See the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on GitHub for reference.
 
-An example markdown file might look like this:
+An example Markdown file might look like this:
 
 ```
 # Title
@@ -44,7 +44,7 @@ which would render like so:
 
 Markdown is easy to write, there's not much to learn to get going, and you get instant visual representation of simple formatted works.
 
-Using markdown in a repository on GitHub allows changes to be managed as the contents evolve. Every revision can be returned to at any point, and it is easy to view a visual difference between any two revisions.
+Using Markdown in a repository on GitHub allows changes to be managed as the contents evolve. Every revision can be returned to at any point, and it is easy to view a visual difference between any two revisions.
 
 Multiple collaborators can work on the same piece of work, and changes by contributors can be managed by the author or owners of the repository.
 
@@ -137,7 +137,7 @@ You can also just repeat `1.` at the beginning of each line, and the numbers wil
 1. Sonic Pi
 1. Minecraft
 
-### Nested lists
+#### Nested lists
 
 You can nest items in ordered or unordered lists (even combine the two) by indenting to create a sub-list like so:
 
@@ -226,7 +226,7 @@ See the [project requirements](../../requirements.md)
 
 ### Images
 
-To include an image in a markdown document, use the link syntax with a leading exclamation mark and leave the square brackets empty:
+To include an image in a Markdown document, use the link syntax with a leading exclamation mark and leave the square brackets empty:
 
 ```
 ![](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
@@ -234,7 +234,7 @@ To include an image in a markdown document, use the link syntax with a leading e
 
 ![](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
 
-You can also include images inside the repository (a good idea as they're then self-contained) so you refer to them relatively:
+You can also include images inside the repository; this is a good idea as they're then self-contained. You can refer to them relatively:
 
 ```
 ![](raspberrypi.png)
@@ -270,7 +270,7 @@ for i in range(10):
     print(i)
 ```
 
-Optionally you can provide the language of the code used in the block, for syntax highlighting:
+Optionally, you can provide the language of the code used in the block, for syntax highlighting:
 
 <pre lang="no-highlight"><code>```python
 for i in range(10):
@@ -320,7 +320,7 @@ It is good practice to cite the quote, simply with a link back to the origin if 
 
 ### Tables
 
-It is possible to tabulate data in markdown with the use of pipes to denote columns:
+It is possible to tabulate data in Markdown with the use of pipes (`|`) to denote columns:
 
 ```
 | Workshop   | Language  | Leader      |
@@ -338,7 +338,7 @@ It is possible to tabulate data in markdown with the use of pipes to denote colu
 
 Note the use of colons to align columns.
 
-Use of pipes at the edges, and alignment of columns is not necessary for the output but aids readability in the markdown:
+Use of pipes at the edges and alignment of columns is not necessary for the output, but it aids readability in the Markdown:
     
 ```
 A | B | C
@@ -352,7 +352,7 @@ A | B | C
 *italic* | `code` | **bold**
 1 | 2 | 3
 
-Note the use of markdown inside tables.
+Note the use of Markdown inside tables.
 
 ### Horizontal rule
 
@@ -366,7 +366,7 @@ Horizontal rules can be used by inserting a line with three or more hyphens like
 
 ### Line breaks
 
-Paragraphs are formed by the presence of blank lines around text, and many other formatting styles in markdown are affected by line breaks.
+Paragraphs are formed by the presence of blank lines around text, and many other formatting styles in Markdown are affected by line breaks.
 
 ```
 This is a single sentence followed by a blank line
@@ -386,9 +386,9 @@ This is three lines
 without a gap
 between each line
 
-If you want a paragraph, use new lines either side of your text.
+If you want a paragraph, use new lines on either side of your text.
 
-If something doesn't quite look right in the preview window, try adding new lines around it, or removing them to achieve the desired formatting.
+If something doesn't quite look right in the preview window, try adding or removing new lines around it to achieve the desired formatting.
 
 <a name="anchors"></a>
 ### Anchors
