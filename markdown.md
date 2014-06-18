@@ -1,6 +1,6 @@
 # Raspberry Pi Learning Markdown Guide
 
-Markdown Style Guide for Raspberry Pi Learning Resources
+Markdown Guide for Raspberry Pi Learning Resources
 
 ## What is Markdown?
 
@@ -44,9 +44,13 @@ which would render like so:
 
 Markdown is easy to write, there's not much to learn to get going, and you get instant visual representation of simple formatted works.
 
-Using Markdown in a repository on GitHub allows changes to be managed as the contents evolve. Every revision can be returned to at any point, and it is easy to view a visual difference between any two revisions.
+As stated in the [markdown project's philosophy](http://daringfireball.net/projects/markdown/syntax#philosophy):
 
-Multiple collaborators can work on the same piece of work, and changes by contributors can be managed by the author or owners of the repository.
+> Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
+>
+> Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
+
+Using Markdown in a repository on GitHub allows changes to be managed as the contents evolve. Every revision can be returned to at any point, and it is easy to view a visual difference between any two revisions.
 
 ## Markdown basics
 
@@ -339,7 +343,7 @@ It is possible to tabulate data in Markdown with the use of pipes (`|`) to denot
 Note the use of colons to align columns.
 
 Use of pipes at the edges and alignment of columns is not necessary for the output, but it aids readability in the Markdown:
-    
+
 ```
 A | B | C
 :-: | :-: | :-:
