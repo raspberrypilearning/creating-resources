@@ -2,7 +2,7 @@
 
 A guide to getting started on GitHub, particularly for educators looking to contribute [resources for the Raspberry Pi website](http://www.raspberrypi.org/resources/) or otherwise use GitHub in Education.
 
-![GitHub Octocat](images/octocat.png)
+![GitHub Octocat](images/octocat.jpg)
 
 ## Sign up to GitHub
 
