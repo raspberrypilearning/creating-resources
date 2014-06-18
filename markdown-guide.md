@@ -226,24 +226,24 @@ See the [project requirements](../../requirements.md)
 
 ### Images
 
-To include an image in a Markdown document, use the link syntax with a leading exclamation mark and leave the square brackets empty:
+To include an image in a Markdown document, use the link syntax with a leading exclamation mark. Write a brief description of the image in the square brackets.
 
 ```
-![](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
+![Raspberry Pi logo](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
 ```
 
-![](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
+![Raspberry Pi logo](http://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-150x150.png)
 
 You can also include images inside the repository; this is a good idea as they're then self-contained. You can refer to them relatively:
 
 ```
-![](raspberrypi.png)
+![Raspberry Pi logo](raspberrypi.png)
 ```
 
 or in another folder:
 
 ```
-![](../images/raspberrypi.png)
+![Raspberry Pi logo](../images/raspberrypi.png)
 ```
 
 #### Images as links
@@ -251,7 +251,7 @@ or in another folder:
 You can make an image a link by wrapping it in square brackets as per the normal link syntax:
 
 ```
-[![](raspberrypi.png)](http://www.raspberrypi.org/)
+[![Raspberry Pi logo](raspberrypi.png)](http://www.raspberrypi.org/)
 ```
 
 ### Code blocks
