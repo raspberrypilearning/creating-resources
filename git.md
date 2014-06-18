@@ -1,5 +1,39 @@
 # Using Git
 
-GitHub's web interface can be used for a great deal of tasks, but some things require using git on your computer either with a GUI or using the command line.
+A guide to using git locally and pushing to GitHub.
 
-GitHub's editor is suitable for small additions and modifications but for writing substantial amounts of material it is advisable to use an offline editor and commit using git on your computer.
+## Graphical tools
+
+Windows and Mac users can use a GUI tool to manage their git repository locally with GitHub integration built in:
+
+- [GitHub for Windows](https://windows.github.com/)
+- [GitHub for Mac](https://mac.github.com/)
+
+## Command line
+
+### Installation
+
+Linux users can install the `git` package, e.g. `apt-get install git`.
+
+For other platforms, download from [git-scm.com/download](http://git-scm.com/download/).
+
+### Configuration
+
+
+
+## Other tools
+
+### Windows
+
+
+
+### Mac
+
+
+
+### Linux
+
+- [gitk](http://git-scm.com/docs/gitk)
+    - Visual git repository browser tool
+- [meld](http://meldmerge.org/)
+    - Visual diff tool
