@@ -24,27 +24,27 @@ It is important to know what type of resource you're creating. On the Raspberry 
 
 GitHub is a software projects hosting service; it's a kind of social networking site for code projects. It uses version-control software Git to manage changes in projects, and allows collaboration over the web.
 
-See our [GitHub Guide](github-guide.md) to learn how to use GitHub to write and contribute to resources.
+See our [GitHub Guide](github.md) to learn how to use GitHub to write and contribute to resources.
 
 ## Markdown
 
 Markdown is a plain-text formatting syntax. It's very simple, and it maintains its readability while offering a range of formatting options. Our documentation and educational resources are written in Markdown, and we encourage others to use it for any resources they write themselves and submit to us.
 
-See our [Markdown Guide](markdown-guide.md) to learn how to write materials in this way.
+See our [Markdown Guide](markdown.md) to learn how to write materials in this way.
 
-See our [Style Guide](style-guide.md) to learn about our preferred methods of formatting Markdown.
+See our [Style Guide](style.md) to learn about our preferred methods of formatting Markdown.
 
 ## Structure
 
 There is a format to the repository of a Raspberry Pi resource. Some resources are larger projects than others, and require more structure and organisation to the contents.
 
-See our [Resource Structure Guide](structure-guide.md) to learn how to organise the files and folders in your repository.
+See our [Resource Structure Guide](structure.md) to learn how to organise the files and folders in your repository.
 
 ## Licence
 
 At the Raspberry Pi Foundation, we want to maximise the potential reach and application of all the resources we create, so all our own materials are released under a [Creative Commons](http://creativecommons.org/) licence.
 
-Read our [Licence Guide](licence-guide.md) to learn about Creative Commons and how to select a licence for your resource.
+Read our [Licence Guide](licensing.md) to learn about Creative Commons and how to select a licence for your resource.
 
 ## Submissions
 
@@ -52,7 +52,7 @@ If you intend to write a Raspberry Pi learning resource to share with the commun
 
 Once you have your resource ready to submit, email the URL of the GitHub repository to [contributions@raspberrypi.org](mailto:contributions@raspberrypi.org).
 
-Alternatively, if you have resources prepared in another format we can use (Word document or text file – not PDF), you can send these to the same email address. Note that such submissions will take longer to process.
+Alternatively, if you have resources prepared in another format we can use (Word document or text file - not PDF), you can send these to the same email address. Note that such submissions will take longer to process.
 
 We retain the right not to use contributions.
 
