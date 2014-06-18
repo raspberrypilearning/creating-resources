@@ -46,7 +46,7 @@ At the Raspberry Pi Foundation, we want to maximise the potential reach and appl
 
 Read our [Licence Guide](licence-guide.md) to learn about Creative Commons and how to select a licence for your resource.
 
-## Submission
+## Submissions
 
 If you intend to write a Raspberry Pi learning resource to share with the community, we recommend you follow our guidelines and submit to us to review and potentially include it on the website.
 
