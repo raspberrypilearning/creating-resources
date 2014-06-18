@@ -64,8 +64,16 @@ To create a new resource project, or to add an existing resource to GitHub, clic
 
 ![Creating a new Repository on GitHub](images/github-new-repo.png)
 
-Follow the [markdown guide](../markdown-guide.md) and [structure guide](../structure-guide.md) to learn how to write and format the material appropriately.
+Follow the [markdown guide](markdown-guide.md) and [structure guide](structure-guide.md) to learn how to write and format the material appropriately.
 
 #### Submitting
 
-See the [Submission notes](../README.md#submissions).
+See the [Submission notes](README.md#submissions).
+
+## Using Git Offline
+
+GitHub's web interface can be used for a great deal of tasks, but some things require using git on your computer either with a GUI or using the command line.
+
+GitHub's editor is suitable for small additions and modifications but for writing substantial amounts of material it is advisable to use an offline editor and commit using git on your computer.
+
+See the [Git guide](git-guide.md).
