@@ -2,7 +2,7 @@
 
 A guide to configuring git and connecting to GitHub on the command line.
 
-## Step 1: Identity
+## Step 1: Set Your Identity
 
 First, set your identity in git so that your commits have author information attached. Enter the following two commands to set your name and email:
 
@@ -11,21 +11,21 @@ git config --global user.name "Your Name"
 git config --global user.email username@email.com
 ```
 
-## Step 3: Generate SSH keys
+## Step 2: Check for Existing SSH Keys
 
 It's advised you set up an SSH key to authenticate with GitHub. If you don't do this you'll have to enter your username and password every time.
 
 First, check for existing SSH keys on your computer by showing the contents of the `.ssh` directory in your home folder.
 
 ```bash
-ls -l ~/.ssh
+ls ~/.ssh
 ```
 
-If you already see an `id_rsa` and `id_rsa.pub`, you have already created a key pair. If you know you created these, you can skip to Step 5. If you're unsure, you should delete these and generate a new key. Delete with `rm id_rsa*`.
+If you already see an `id_rsa` and `id_rsa.pub`, you have already created a key pair. If you know you created these, you can skip to Step 4. If you're unsure, you should delete these and generate a new key. Delete with `rm id_rsa*`.
 
-If your `.ssh` folder does not contain keys (or you deleted them) or the folder does not exist (you'll see `ls: cannot access .ssh: No such file or directory`), proceed to step 4.
+If your `.ssh` folder does not contain keys (or you deleted them) or the folder does not exist (you'll see `ls: cannot access .ssh: No such file or directory`), proceed to step 3.
 
-## Step 4: Generate SSH keys
+## Step 3: Generate SSH keys
 
 Use the `ssh-keygen` command to generate a new SSH key:
 
@@ -54,7 +54,7 @@ ssh-add ~/.ssh/id_rsa
 
 Now you'll find `id_rsa` and `id_rsa.pub` files in your `.ssh` directory. These are your public and private RSA keys. Never share your private key.
 
-## Step 5: Add your SSH key to GitHub
+## Step 4: Add your SSH key to GitHub
 
 Reveal the contents of your public key (first enter the `.ssh` folder):
 
