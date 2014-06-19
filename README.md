@@ -40,11 +40,11 @@ There is a format to the repository of a Raspberry Pi resource. Some resources a
 
 See our [Resource Structure Guide](structure.md) to learn how to organise the files and folders in your repository.
 
-## Licence
+## Licensing
 
 At the Raspberry Pi Foundation, we want to maximise the potential reach and application of all the resources we create, so all our own materials are released under a [Creative Commons](http://creativecommons.org/) licence.
 
-Read our [Licence Guide](licensing.md) to learn about Creative Commons and how to select a licence for your resource.
+Read our [Licensing Guide](licensing.md) to learn about Creative Commons and how to select a licence for your resource.
 
 ## Submissions
 
