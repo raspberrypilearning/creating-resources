@@ -8,7 +8,7 @@ First, see the [Configuring Git Guide](git-config.md) to set up and connect to G
 
 There are two ways to create a repository: on the command line; and on GitHub.
 
-`git init` allows you to create a repository on the command line and connect it to a GitHub repository (which you'll also need to create), whereas `git clone` allows you to only create the repository on GitHub, then copy it to your computer and easily push changes back to GitHub.
+`git init` requires you to create a repository on the command line and connect it to a GitHub repository (which you'll also need to create), whereas with `git clone`  you only need to create the repository on GitHub, then copy it to your computer and easily push changes back to GitHub.
 
 ### git clone
 
