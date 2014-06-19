@@ -12,7 +12,7 @@ There are two ways to create a repository: on the command line; and on GitHub.
 
 ### git clone
 
-`git clone` is easier than `git commit` so new users should start here.
+`git clone` is easier than `git init` so new users should start here.
 
 1. Go to [github.com](https://github.com/) and create a new repository (make sure to tick the `Initialize this repository with a README` box).
 1. Go to the repository on GitHub and click the `SSH` toggle beneath the clone URL box on the right hand side beneath the tabs (or `HTTPS` if you did not set up an SSH key). Click the copy icon to copy the URL.
@@ -33,6 +33,7 @@ Whether you used `git clone` or `git init`, you can now add files to your git re
 1. Enter `git add -A` to add all files in the directory, or use `git add file1 file2 file3` to explicitly add files and folders. Note this only notifies git of the filenames, not their contents.
 1. Enter `git status` to see what files git is aware of. Use `git add` to add more.
 1. Enter `git commit -am "Initial commit"`. This will commit all files to the repository and the state of the project will be saved in this form in the repository's history. The `-a` means "all" (i.e. commit all files) and the `m` is for the commit message, which follows. If the commit message is not given, your default editor (probably Nano) will be opened for you to enter it there.
+1. Further commits should be given a meaningful commit message, and should be in the form of an instruction, such as `Add worksheet` or `Fix typo`. Commit messages are shown on GitHub in the project's history, with author information attached.
 
 ### Pushing to GitHub
 
