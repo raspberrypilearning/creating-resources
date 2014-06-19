@@ -32,7 +32,7 @@ If you need to include further text in between list items, indent the text with 
 
 ## Links
 
-Use links as described above. Check relative links are correct and be sure to update them if you change file or folder names, or move files to a new location.
+Use links as described in the [Raspberry Pi Learning Markdown Guide](markdown.md). Check relative links are correct and be sure to update them if you change file or folder names, or move files to a new location.
 
 Try to use sensible link text accurately describing the link, e.g. `Check out [Raspberry Pi on GitHub](https://github.com/raspberrypi)` is better than `[Click here] to see Raspberry Pi on GitHub`.
 
