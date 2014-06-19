@@ -56,10 +56,10 @@ Now you'll find `id_rsa` and `id_rsa.pub` files in your `.ssh` directory. These 
 
 ## Step 4: Add your SSH key to GitHub
 
-Reveal the contents of your public key (first enter the `.ssh` folder):
+Reveal the contents of your public key:
 
 ```bash
-cat id_rsa.pub
+cat ~/.ssh/id_rsa.pub
 ```
 
 You will paste your public key in to GitHub which will validate against your private key.
