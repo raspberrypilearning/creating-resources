@@ -422,3 +422,12 @@ or on another page with the relative or full URL:
 ---
 
 *Based on [adam-p](https://github.com/adam-p)'s [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
+
+## Markdown Editors
+
+If you're using git on your computer rather than the GitHub editor, you can use a simple text editor. However, it can be useful to use a desktop markdown editor with a preview pane. Here is a selection:
+
+- [ReText](https://launchpad.net/retext) for Linux (`apt-get install retext`)
+- [Mou](http://mouapp.com/) for Mac
+- [MarkdownPad](http://markdownpad.com/) for Windows
+- [StackEdit](https://stackedit.io/) - an online editor
