@@ -20,6 +20,8 @@ There are two ways to create a repository: on the command line; and on GitHub.
 
 ### git init
 
+Alternatively to `git clone`, you can create the git repository on the command line using `git init`.
+
 1. Create a directory for your new project with `mkdir projectname` and enter the folder with `cd projectname`. If the project you want to add to GitHub already exists, make sure the project files are in their own folder, then `cd` in to it.
 1. Enter `git init` to initialise a git repository in the folder.
 1. Go to [github.com](https://github.com/) and create a new repository (make sure not to tick the `Initialize this repository with a README` box).
