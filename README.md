@@ -58,9 +58,9 @@ We retain the right not to use contributions.
 
 ### Process
 
-If we decide you to include your resource on our website, we will fork the project into the [raspberrypilearning](https://github.com/raspberrypilearning) GitHub organisation. We may make amendments to this copy, and yours will be left as it was, with the option of merging our changes into your original copy.
+If we decide to include your resource on our website, we will fork the project into the [raspberrypilearning](https://github.com/raspberrypilearning) GitHub organisation. We may make amendments to this copy, and yours will be left as it was, with the option of merging our changes into your original copy.
 
-At the time of writing there is currently no named attribution on our Resources page, but the name of the author is given on the project's front page. We intend to better highlight author and contributor names on the website in near future.
+At the time of writing there is currently no named attribution on our Resources page, but the name of the author is given on the project's front page. We intend to better highlight author and contributor names on the website in the near future.
 
 ## Contact
 
