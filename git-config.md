@@ -76,6 +76,12 @@ Return to the command line and test your SSH connection to GitHub:
 ssh -T git@github.com
 ```
 
+You should see the message:
+
+```
+Hi <username>! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
 If you have any issues, see [GitHub's help page](https://help.github.com/articles/generating-ssh-keys#step-4-test-everything-out)
 
 Now proceed to [Using Git Guide](git.md).
