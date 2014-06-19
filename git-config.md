@@ -15,15 +15,17 @@ git config --global user.email username@email.com
 
 It's advised you set up an SSH key to authenticate with GitHub. If you don't do this you'll have to enter your username and password every time.
 
-First, check for existing SSH keys on your computer by showing the contents of the `.ssh` directory in your home folder. First `cd` to your home folder if you're not already there.
+First, check for existing SSH keys on your computer by showing the contents of the `.ssh` directory in your home folder.
 
 ```bash
-ls -al .ssh
+ls -l ~/.ssh
 ```
 
-If you already see an `id_rsa` and `id_rsa.pub`, you have already created a key pair. If you created these, you can skip to Step 4. If you're unsure, you should delete these and generate a new key. Delete with `rm id_rsa*`.
+If you already see an `id_rsa` and `id_rsa.pub`, you have already created a key pair. If you know you created these, you can skip to Step 5. If you're unsure, you should delete these and generate a new key. Delete with `rm id_rsa*`.
 
-## Step 3: Generate SSH keys
+If your `.ssh` folder does not contain keys (or you deleted them) or the folder does not exist (you'll see `ls: cannot access .ssh: No such file or directory`), proceed to step 4.
+
+## Step 4: Generate SSH keys
 
 Use the `ssh-keygen` command to generate a new SSH key:
 
@@ -52,7 +54,7 @@ ssh-add ~/.ssh/id_rsa
 
 Now you'll find `id_rsa` and `id_rsa.pub` files in your `.ssh` directory. These are your public and private RSA keys. Never share your private key.
 
-## Step 4: Add your SSH key to GitHub
+## Step 5: Add your SSH key to GitHub
 
 Reveal the contents of your public key (first enter the `.ssh` folder):
 
