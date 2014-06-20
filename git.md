@@ -16,15 +16,15 @@ There are two ways to create a repository: on the command line; and on GitHub.
 
 1. Sign in to [github.com](https://github.com/), click the plus iconin the top bar and go to `New repository`.
 
-    ![GitHub New Repository](images/github-new-repo.jpg)
+    ![GitHub New Repository](images/github-new-repo.png)
 
 1. On the new repository page, fill in the project title and description and make sure to tick the `Initialize this repository with a README` box.
 
-    ![GitHub Create Repository](images/github-new-project-init.jpg)
+    ![GitHub Create Repository](images/github-new-project-init.png)
 
 1. Go to the repository on GitHub and click the `SSH` toggle beneath the clone URL box on the right hand side beneath the tabs (or `HTTPS` if you did not set up an SSH key). Click the copy icon to copy the URL.
 
-    ![GitHub Clone URL](images/github-clone-url.jpg)
+    ![GitHub Clone URL](images/github-clone-url.png)
 
 1. In the command line, enter `git clone` followed by the URL you just copied, i.e. `git@github.com:user/repo.git`. If you get an error on this step, see this [GitHub SSH error help page](https://help.github.com/articles/error-permission-denied-publickey).
 
@@ -38,15 +38,15 @@ Alternatively to `git clone`, you can create the git repository on the command l
 
 1. Sign in to [github.com](https://github.com/), click the plus iconin the top bar and go to `New repository`.
 
-    ![GitHub New Repository](images/github-new-repo.jpg)
+    ![GitHub New Repository](images/github-new-repo.png)
 
 1. On the new repository page, fill in the project title and description and make sure not to tick the `Initialize this repository with a README` box.
 
-    ![GitHub Create Repository](images/github-new-project.jpg)
+    ![GitHub Create Repository](images/github-new-project.png)
 
 1. Go to the repository on GitHub and click the `SSH` toggle beneath the clone URL box on the right hand side beneath the tabs (or `HTTPS` if you did not set up an SSH key). Click the copy icon to copy the URL.
 
-    ![GitHub Clone URL](images/github-clone-url.jpg)
+    ![GitHub Clone URL](images/github-clone-url.png)
 
 1. Enter `git remote add github` followed by the URL you just copied, i.e. `git@github.com:user/repo.git`.
 
