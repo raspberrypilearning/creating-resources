@@ -1,6 +1,6 @@
 # Creating Resources
 
-A short guide for educators and trainers intending to create learning material on GitHub for their own use, for consideration on the [Raspberry Pi website](http://www.rasperrypi.org/resources/), or both.
+A short guide for educators and trainers intending to create learning material on GitHub for their own use, for consideration on the [Raspberry Pi website](http://www.raspberrypi.org/resources/), or both.
 
 Before creating or submitting a resource, it is important to know what you're aiming to achieve, who the resource is for, how the information is presented, to what extent you would like to share the materials, and whether you would mind others adapting it to suit their own purpose.
 
