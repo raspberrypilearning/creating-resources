@@ -30,6 +30,8 @@ To do this, navigate to the repository in question and go to the `Issues` tab on
 
 Fill in the issue title and write as much detail as you can for us to identify the problem or reproduce the bug. One of our team will then look in to the issue and attempt to resolve it. Some issues are easy to resolve and can be fixed and closed swiftly; some take time to identify or reproduce and fix; some issues we consider invalid (for example, a recommendation we consider would lose the intended educational value). A conversation may arise on an issue, where our team aim to determine the nature of the problem and response from the user will help.
 
+You can use markdown to add links, emphasis and such. It is very useful to include a link to the file you're talking about, so that the reviewer can head straight over to look at the problem.
+
 ![View/edit this page on GitHub](images/github-issue.png)
 
 Be sure to read the contributing policy for a repository before opening an issue. You'll find this in the `CONTRIBUTING.md` file in the root of the repository.
