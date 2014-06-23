@@ -42,9 +42,9 @@ which would render like so:
 
 ### Why Markdown?
 
-Markdown is easy to write, there's not much to learn to get going, and you get instant visual representation of simple formatted works.
+Markdown is easy to write, there's not much to learn to get going, and you get an instant visual representation of simply formatted works.
 
-As stated in the [markdown project's philosophy](http://daringfireball.net/projects/markdown/syntax#philosophy):
+As stated in the [Markdown project's philosophy](http://daringfireball.net/projects/markdown/syntax#philosophy):
 
 > Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
 >
@@ -77,7 +77,7 @@ Strong emphasis (bold) uses `**double asterisks**`:
 
 **double asterisks**
 
-Use both together (bold italic) with `***triple asterisks***` or combined `***bold italic* and just bold**`
+Use both together (bold italic) with `***triple asterisks***` or combined `***bold italic* and just bold**`.
 
 ***triple asterisks***
 
@@ -127,7 +127,7 @@ which renders like so:
 3. Sonic Pi
 4. Minecraft
 
-You can also just repeat `1.` at the beginning of each line, and the numbers will be automatically generated as you add more. This is especially useful for adding items in the middle of a list as it saves you renumbering the items:
+You can also just repeat `1.` at the beginning of each line, and the numbers will be automatically generated as you add more. This is especially useful for adding items in the middle of a list, as it saves you renumbering the items:
 
 ```
 1. Python
@@ -143,7 +143,7 @@ You can also just repeat `1.` at the beginning of each line, and the numbers wil
 
 #### Nested lists
 
-You can nest items in ordered or unordered lists (even combine the two) by indenting to create a sub-list like so:
+You can nest items in ordered or unordered lists, or even combine the two, by indenting to create a sub-list like so:
 
 ```
 - Hardware
@@ -165,7 +165,7 @@ Sub-lists continue with further indentation.
 
 #### Paragraphs in between list items
 
-If you need to include further text in between list items, indent the text with four spaces. This will allow your list to continue (i.e. numbering in an ordered list will not break sequence). For example:
+If you need to include further text in between list items, indent the text with four spaces. This will allow your list to continue, so that numbering in an ordered list will not break sequence. For example:
 
 ```
 1. Plug in your mouse and keyboard
@@ -188,7 +188,7 @@ If you need to include further text in between list items, indent the text with 
 
 ### Links
 
-Links are created by giving the link text in square brackets immediately followed by round brackets containing the link URL:
+Links are created by giving the link text in square brackets, immediately followed by round brackets containing the link URL:
 
 ```
 Check out the [Raspberry Pi](http://www.raspberrypi.org/) website
@@ -204,7 +204,7 @@ See the [worksheet](worksheet.md) for this project
 
 See the [worksheet](worksheet.md) for this project
 
-This would link to the `worksheet.md` file in the same folder as the current document. To go in to another folder:
+This would link to the `worksheet.md` file in the same folder as the current document. To go into another folder use the following format:
 
 ```
 See the [Lesson 1 worksheet](lesson-1/worksheet.md)
@@ -252,7 +252,7 @@ or in another folder:
 
 #### Images as links
 
-You can make an image a link by wrapping it in square brackets as per the normal link syntax:
+You can make an image into a link by wrapping it in square brackets as per the normal link syntax:
 
 ```
 [![Raspberry Pi logo](raspberrypi.png)](http://www.raspberrypi.org/)
@@ -300,7 +300,7 @@ No syntax highlighting is available for inline code blocks.
 
 ### Block quotes
 
-You can format text as a block quote by prepending each line with a `>` like so:
+You can format text as a block quote by beginning each line with a `>` like so:
 
 ```
 >The Raspberry Picademy is a free professional development experience for primary and secondary teachers, initially for those here in the UK.
@@ -308,7 +308,7 @@ You can format text as a block quote by prepending each line with a `>` like so:
 
 >The Raspberry Picademy is a free professional development experience for primary and secondary teachers, initially for those here in the UK.
 
-This is useful for quoting text from a web page or book, or from documentation.
+This is useful for quoting text from a web page, book, or documentation.
 
 It is good practice to cite the quote, simply with a link back to the origin if it is online, or another suitable reference:
 
@@ -423,9 +423,9 @@ or on another page with the relative or full URL:
 
 *Based on [adam-p](https://github.com/adam-p)'s [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
 
-## Markdown Editors
+## Markdown editors
 
-If you're using git on your computer rather than the GitHub editor, you can use a simple text editor. However, it can be useful to use a desktop markdown editor with a preview pane. Here is a selection:
+If you're using git on your computer rather than the GitHub editor, you can use a simple text editor. However, it can be useful to use a desktop Markdown editor with a preview pane. Here is a selection:
 
 - [ReText](https://launchpad.net/retext) for Linux (`apt-get install retext`)
 - [Mou](http://mouapp.com/) for Mac
