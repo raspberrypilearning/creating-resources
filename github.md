@@ -42,7 +42,7 @@ While browsing a file on GitHub, you will see an `Edit` button:
 
 ![GitHub's Edit button](images/github-edit.png)
 
-Clicking this will create a copy of the repository in your name; this process is called *forking*. For example, if you forked `github.com/raspberrypi/noobs` you would find your copy at `github.com/yourusername/noobs`, with the full history of the project available. Any changes made to your copy will not be reflected in the original repository until you request them to be merged, and the project maintainer does so.
+Clicking this will create a copy of the repository in your name; this process is called *forking*. For example, if you forked `github.com/raspberrypilearning/push-button-stop-motion` you would find your copy at `github.com/yourusername/push-button-stop-motion`, with the full history of the project available. Any changes made to your copy will not be reflected in the original repository until you request them to be merged, and the project maintainer does so.
 
 ![Editing on GitHub](images/github-editing.png)
 
